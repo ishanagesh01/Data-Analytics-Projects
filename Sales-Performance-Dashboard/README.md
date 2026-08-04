@@ -54,7 +54,7 @@ Global Superstore Sales Dataset
 
 # 📷 Dashboard Preview
 
-> Add a screenshot here after uploading `Dashboard.png`
+![Sales Dashboard](Sales_Dashboard.png)
 
 ---
 
