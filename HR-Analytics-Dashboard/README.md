@@ -2,7 +2,7 @@
 
 ## 📷 Dashboard Preview
 
-![HR Dashboard](HR Dashboard.png)
+![HR Analytics Dashboard](HR Dashboard.png)
 
 ---
 
