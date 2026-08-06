@@ -90,5 +90,5 @@ Retail analytics dashboard including:
 
 LinkedIn
 https://www.linkedin.com/in/ishanagesh
-Github
-GitHub: github.com/ishanagesh01
+
+github.com/ishanagesh01
